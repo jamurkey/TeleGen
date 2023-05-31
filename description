@@ -1,0 +1,1 @@
+The workflow was optimized to follow these conversion steps: 1) compressed format files (CRAM) to binary alignment map (BAM) files; 2) Telomerecat BAM to telombam; and 3) Telomerecat telobam to telomere length output. 
